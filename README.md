@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**mohdnaved8549-hue/mohdnaved8549-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 🐅 NVD STEALTH STUDIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Independent Android App Developer
+
+**Building Creative Apps & Games**
+
+📱 Android Development | 🎮 Game Development | 💻 UI Design
+
+---
+
+### 👨‍💻 ABOUT ME
+
+Hello! I'm Naved, an independent Android app developer.
+
+- 🔭 Working on creative Android applications.
+- 📱 Developing apps using Sketchware.
+- 💻 Exploring Java, JavaScript and C++.
+- 🎮 Interested in mobile game development.
+- 🚀 Building projects under NVD Stealth Studio.
+
+### 🛠️ TECHNOLOGIES & SKILLS
+
+Java • JavaScript • C++ • Android • Sketchware
+
+### 🚀 MY PROJECTS
+
+- V5 Video Player
+- Notes Book
+- NVD Android Apps
+- Mobile Game Projects
+
+### 🌐 CONNECT WITH ME
+
+- Instagram: https://www.instagram.com/mohmmadnaved80/
+- Facebook: https://www.facebook.com/share/1CVy4AiWGx/
+- X: https://x.com/mohdnaveds38687
+
+### 🏢 NVD STEALTH STUDIO
+
+*Creating • Innovating • Developing*
+
+</div>
