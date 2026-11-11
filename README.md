@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- अपना लोगो अपलोड करने के बाद, उसका लिंक नीचे 'YAHAN_LOGO_KA_LINK_DAALEIN' की जगह लगा दें -->
+<img src="YAHAN_LOGO_KA_LINK_DAALEIN" width="150" alt="NVD Logo" />
+
 # 🐅 NVD STEALTH STUDIO
 
 ### Independent Android App Developer
@@ -56,13 +59,17 @@ Hello! I'm **Naved**, an independent Android app developer.
 </a>
 <br><br>
 
+---
+
 ### 📲 SCAN QR TO CONNECT DIRECTLY
 
+<br>
 <p align="center">
-  <img src="insta.png" width="200" alt="Instagram QR" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="whatsapp.png" width="200" alt="WhatsApp QR" />
+  <img src="https://github.com/user-attachments/assets/fd3f2dcf-6531-4075-ae2d-bf340e31455a" width="200" alt="Instagram QR" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/6a9a4f5a-ea72-4a43-af80-1a1c1521860a" width="200" alt="WhatsApp QR" />
 </p>
+<br>
 
 ---
 
