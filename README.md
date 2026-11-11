@@ -56,6 +56,14 @@ Hello! I'm **Naved**, an independent Android app developer.
 </a>
 <br><br>
 
+### 📲 SCAN QR TO CONNECT DIRECTLY
+
+<p align="center">
+  <img src="insta.png" width="200" alt="Instagram QR" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="whatsapp.png" width="200" alt="WhatsApp QR" />
+</p>
+
 ---
 
 ### 🏢 NVD STEALTH STUDIO
