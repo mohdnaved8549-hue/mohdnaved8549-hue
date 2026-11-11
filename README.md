@@ -51,6 +51,9 @@ Hello! I'm **Naved**, an independent Android app developer.
 <a href="https://x.com/mohdnaveds38687">
   <img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
+<a href="https://wa.me/qr/GISBU7HH7S5FA1">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
 <br><br>
 
 ---
