@@ -65,9 +65,9 @@ Hello! I'm **Naved**, an independent Android app developer.
 
 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fd3f2dcf-6531-4075-ae2d-bf340e31455a" width="200" alt="Instagram QR" />
+  <img src="https://github.com/user-attachments/assets/adb3fbaa-14a4-4a04-a8a2-faa0971ae528" width="200" alt="Instagram QR" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/6a9a4f5a-ea72-4a43-af80-1a1c1521860a" width="200" alt="WhatsApp QR" />
+  <img src="https://github.com/user-attachments/assets/1c795154-c6aa-4875-8f82-0d54117fc85a" width="200" alt="WhatsApp QR" />
 </p>
 <br>
 
